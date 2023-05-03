@@ -1,4 +1,6 @@
-FROM amazoncorretto:17-alpine-jdk
+FROM amazoncorretto:8-alpine-jdk
+ 
+MAINTAINER sf
 
 COPY target/backend-0.0.1-SNAPSHOT.jar backend-0.0.1-SNAPSHOT.jar
 

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.miportfolioyp.backend.BackendApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.515 s - in com.miportfolioyp.backend.BackendApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.048 s - in com.miportfolioyp.backend.BackendApplicationTests

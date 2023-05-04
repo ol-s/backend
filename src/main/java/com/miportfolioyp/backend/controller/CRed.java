@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin("http://localhost:4200/")  //para cruzar con angular
+@CrossOrigin("https://sf-portfoliofrontend.web.app/")  //para cruzar con angular, era http://localhost:4200/ before deploy firebase
 @RequestMapping("red") //localhost:8080/red
 public class CRed {
     

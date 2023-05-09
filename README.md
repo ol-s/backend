@@ -32,7 +32,7 @@ En la aplicación se implementa un LOG IN (simple) con email y password con el o
 
 [Script SQL](https://github.com/ol-s/yp-Portfolio-FrontEnd-Angular/blob/main/src/assets/der/der-forwardEngineer-script.sql/ "SQL") 
 
-<img src="https://github.com/ol-s/REPOpruebasPRIVATE/blob/main/ypPortfolio-DER.png" width="700px" style="">
+<img src="https://github.com/ol-s/yp-Portfolio-FrontEnd-Angular/blob/main/src/assets/der/ypPortfolio-DER.png" width="700px" style="">
 * realizado antes del backend
 
 #

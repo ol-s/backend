@@ -30,6 +30,7 @@ com\miportfolioyp\backend\repository\RExperiencia.class
 com\miportfolioyp\backend\repository\REducacion.class
 com\miportfolioyp\backend\service\SProyecto.class
 com\miportfolioyp\backend\controller\CSkillWeb.class
+com\miportfolioyp\backend\WebConfig.class
 com\miportfolioyp\backend\controller\CSkillArq.class
 com\miportfolioyp\backend\repository\PersonaRepo.class
 com\miportfolioyp\backend\controller\CProyecto.class
